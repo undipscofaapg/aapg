@@ -1,0 +1,56 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://www.undipscofaapg.or.id" resolutions="1x" timestamp="1471799499931">
+  <folder name="css">
+    <file name="site_global.css" crc="238115956"/>
+    <file name="master_a-master.css" crc="396531866" ref="index:article-2:article-4:about:article-1:article-3"/>
+    <file name="index.css" crc="3965889149" ref="index"/>
+    <file name="article-2.css" crc="4063613070" ref="article-2"/>
+    <file name="article-4.css" crc="251917719" ref="article-4"/>
+    <file name="about.css" crc="4201995489" ref="about"/>
+    <file name="article-1.css" crc="3790522408" ref="article-1"/>
+    <file name="article-3.css" crc="4288426798" ref="article-3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="museutils.js" crc="531812214" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="whatinput.js" crc="84559013" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index"/>
+    <file name="webpro.js" crc="4156477058" ref="index"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:article-1:article-2:about:article-3:article-4"/>
+  </folder>
+  <folder name="images">
+    <file name="pinggir.png" crc="3915167105" seo="true" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="pinggir kiri.png" crc="4053711994" seo="true" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="fix2 lebih panjang.jpg" crc="4245668520" seo="true" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="1-01.jpg" crc="321493355" ref="index"/>
+    <file name="2-01.jpg" crc="426084100" ref="index"/>
+    <file name="3-01.jpg" crc="118372619" ref="index"/>
+    <file name="4-01.jpg" crc="381946045" ref="index"/>
+    <file name="fix-01.jpg" crc="165679042" seo="true" ref="index"/>
+    <file name="article 1-01.jpg" crc="4254371407" ref="index"/>
+    <file name="article 2-01.jpg" crc="4102083032" ref="index"/>
+    <file name="ario arief.jpg" crc="366363265" seo="true" ref="index:article-3"/>
+    <file name="oil news.jpg" crc="4001372767" seo="true" ref="index:article-4"/>
+    <file name="corner.png" crc="3787209383" seo="true" ref="index"/>
+    <file name="putri.jpg" crc="3808823250" ref="index"/>
+    <file name="pres5.jpg" crc="4162463291" ref="index"/>
+    <file name="pinggir kiri bawah.jpg" crc="366203652" seo="true" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="bawah.jpg" crc="149771452" seo="true" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="pinggir kanan bawah.jpg" crc="102831505" seo="true" ref="index:article-1:article-2:about:article-3:article-4"/>
+    <file name="oil_171213.jpg" crc="362408467" seo="true" ref="article-1"/>
+    <file name="fix2.png" crc="3774524374" seo="true" ref="article-2:article-3"/>
+    <file name="pak edi.jpg" crc="3822648352" seo="true" ref="article-2"/>
+  </folder>
+  <file name="index.html" crc="276536290" seo="true" mt="1471799467583" redirect="true"/>
+  <file name="article-1.html" crc="4132590331" seo="true" mt="1471799474292" redirect="true"/>
+  <file name="article-2.html" crc="3863281015" seo="true" mt="1471799480703" redirect="true"/>
+  <file name="about.html" crc="236125780" seo="true" mt="1471799485326" redirect="true"/>
+  <file name="article-3.html" crc="3765387441" seo="true" mt="1471799490055" redirect="true"/>
+  <file name="article-4.html" crc="95501106" seo="true" mt="1471799494986" redirect="true"/>
+</manifest>
